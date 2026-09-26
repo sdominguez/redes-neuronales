@@ -1,6 +1,6 @@
 # Redes Neuronales Artificiales
 
-Ejemplos didácticos de algoritmos de aprendizaje para Redes
+Ejemplos de reglas de aprendizaje para Redes
 Neuronales Artificiales.
 
 ## Ejemplos
